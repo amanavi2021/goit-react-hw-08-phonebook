@@ -1,7 +1,7 @@
 import { useDispatch } from 'react-redux';
 import { deleteContact } from 'redux/contacts/operations';
 import PropTypes from 'prop-types';
-import {Button, ListItem , ListItemText, ListItemIcon, Icon } from '@mui/material';
+import {Button, ListItem , ListItemText, ListItemIcon } from '@mui/material';
 import { Phone } from '@mui/icons-material';
 
 export const ContactListItem = ({ contact }) => {
