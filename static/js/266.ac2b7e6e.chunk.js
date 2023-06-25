@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[266],{1266:function(e,r,n){n.r(r);var a=n(3329);r.default=function(){return(0,a.jsx)("div",{children:(0,a.jsxs)("h1",{children:["Phonebook wilcome page"," ",(0,a.jsx)("span",{role:"img","aria-label":"Greeting icon",children:"\ud83d\udc81\u200d\u2640\ufe0f"})]})})}}}]);
+//# sourceMappingURL=266.ac2b7e6e.chunk.js.map
